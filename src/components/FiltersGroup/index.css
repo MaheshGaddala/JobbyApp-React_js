@@ -1,0 +1,27 @@
+.filters-heading {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.filters-list-item {
+  list-style-type: none;
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.filters-search-input {
+  width: 400px;
+  height: 50px;
+  background-color: transparent;
+  border: 2px solid #cbd5e1;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 20px;
+  color: #ffffff;
+}

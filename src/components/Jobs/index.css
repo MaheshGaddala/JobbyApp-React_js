@@ -1,0 +1,9 @@
+.jobs-container {
+  background-color: #000000;
+}
+.all-jobs-section-main-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 50px;
+}

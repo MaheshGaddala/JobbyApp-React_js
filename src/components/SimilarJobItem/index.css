@@ -1,0 +1,50 @@
+.similar-job-container {
+  background-color: #272727;
+  margin: 25px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.similar-job-company-container {
+  display: flex;
+  align-items: center;
+}
+.similar-job-company-logo {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+}
+.similar-job-title {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.similar-job-rating {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.similar-job-location {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin: 10px;
+}
+
+.similar-job-description-heading {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.similar-job-description {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.similar-job-location-container {
+  display: flex;
+}
